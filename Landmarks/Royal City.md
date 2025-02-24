@@ -1,18 +1,18 @@
 ---
 tags:
   - Landmark
-  - Template
+  - City
 aliases:
 ---
-[[Template]]
+[[Teia - Continent]],  
 ## 🗺️ Overview
 - **Location:** 
 - **Type:**
-- **Climate & Terrain:**  
+- **Climate & Terrain:** 
 - **Name Origin:** 
 ## 🏛️ History & Lore
 - **Origin/Mythology:** 
-- **Era of Founding:** 
+- **Era of Founding:** in [[Era of Making]] by the king at the time [[Royal 1]]
 - **Significant Events:** 
 ## 🌿 Flora & Fauna
 - **Common Creatures:** 

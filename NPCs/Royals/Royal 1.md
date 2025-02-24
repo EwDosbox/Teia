@@ -1,26 +1,24 @@
 ---
 tags:
   - NPC
-  - Template
 aliases:
 ---
-[[Template]]
+
 ## 🏛️ Overview
-- **Race:** 
+- **Race:** [[Royals]]
 - **Occupation/Role:** 
 - **Alignment:** 
-- **Home:** 
+- **Home:** [[Royal City]]
 - **Name Origin:** 
-- **Is Alive:** 
+- **Is Alive:** Long Dead
 
 ## 🎭 Personality & Motivations
 - **Personality Traits:** 
-- **Motivations:** 
+- **Motivations:** Create a new prosperous kingdom somewhere they will be safe
 - **Quirks:** 
 
 ## 📜 History
 - **Background:** 
-- **Time Frame:** 
 - **Significant Events:** 
 
 ## 🗡️ Combat & Influence

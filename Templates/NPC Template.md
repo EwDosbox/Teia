@@ -4,13 +4,11 @@ tags:
   - Template
 aliases:
 ---
-
-# Name
-
 ## 🏛️ Overview
 - **Race:** 
 - **Occupation/Role:** 
 - **Alignment:** 
+- **Name Origin:** 
 
 ## 🎭 Personality & Motivations
 - **Personality Traits:** 

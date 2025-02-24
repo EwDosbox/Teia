@@ -4,12 +4,11 @@ tags:
   - Template
 aliases:
 ---
-# Name
-
 ## 🗺️ Overview
 - **Location:** 
 - **Type:**
 - **Climate & Terrain:** 
+- **Name Origin:** 
 ## 🏛️ History & Lore
 - **Origin/Mythology:** 
 - **Significant Events:** 

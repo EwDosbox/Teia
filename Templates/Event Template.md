@@ -4,12 +4,11 @@ tags:
   - Template
 aliases:
 ---
-# Event
-
 ## 📅 Date & Era
 - **Year:** 
 - **Era:** 
 - **Duration:** 
+- **Name Origin:** 
 
 ## 🌍 Location
 - **Where it Happened:** 

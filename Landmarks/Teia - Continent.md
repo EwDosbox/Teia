@@ -7,7 +7,7 @@ aliases:
 - **Type:** Continent
 - **Name Origin:** Terra and Gaia portmanteau
 ## 🏛️ History & Lore
-- **Origin/Mythology:** Made by [[wizards]] after they sealed [[NPCs/Teia|Teia]] into a Prison
+- **Origin/Mythology:** Made by [[wizards]] after they sealed [[Teia - Character|Teia - Character]] into a Prison
 - **Significant Events:**  Everything
 ## 🌿 Flora & Fauna
 - **Common Creatures:** 

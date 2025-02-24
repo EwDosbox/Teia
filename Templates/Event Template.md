@@ -4,6 +4,7 @@ tags:
   - Template
 aliases:
 ---
+[[Template]]
 ## 📅 Date & Era
 - **Year:** 
 - **Era:** 

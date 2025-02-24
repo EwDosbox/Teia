@@ -1,17 +1,16 @@
 ---
 tags:
   - NPC
-  - Template
 aliases:
 ---
 ## 🏛️ Overview
-- **Race:** 
+- **Race:** [[God]]
 - **Occupation/Role:** 
-- **Alignment:** 
-- **Name Origin:** 
+- **Alignment:** Neutral Good
+- **Name Origin:** Terra and Gaia portmanteau
 
 ## 🎭 Personality & Motivations
-- **Personality Traits:** 
+- **Personality Traits:** Off-putting, 
 - **Motivations:** 
 - **Quirks:** 
 

@@ -4,6 +4,7 @@ tags:
   - Template
 aliases:
 ---
+[[Template]]
 ## 🏹 Character Overview
 - **Race:** 
 - **Class:** 

@@ -28,7 +28,7 @@ aliases:
 - **Major Political Shifts:** 
 
 ## 📜 Legacy & Impact
-- **How It Ended:** 
+- **How It Ended:** it ended when [[Royal 1]] died heroically in battle against [[thing that killed royal 1]]
 - **Effects on Later Eras:** 
 
 ## 📖 Related Eras

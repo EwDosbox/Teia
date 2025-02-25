@@ -21,4 +21,4 @@ aliases:
 - **Major Settlements:** 
 - **Important Figures:** 
 ## 📜 Notes
-- 
+- [[Tomb of Royals]] is located here

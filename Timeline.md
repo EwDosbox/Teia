@@ -1,0 +1,5 @@
+- **-50 - -40** [[Royal 1]] is born
+- **-11** [[Era of Making]] is started by [[Royal 1]]
+- **15** [[Era of Making]] ends with [[Death of Teia]]
+- **812** [[Tomb of Royals]] is robbed
+- **1015** campaign starts

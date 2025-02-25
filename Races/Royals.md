@@ -35,4 +35,4 @@ aliases:
 - **Enemies & Conflicts:** 
 
 ## 📜 Notes
-- 
+- [[Tomb of Royals]] is where 

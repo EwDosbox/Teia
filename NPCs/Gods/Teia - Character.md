@@ -9,7 +9,7 @@ aliases:
 - **Alignment:** Neutral Good
 - **Home:** she makes the entirety of the [[Teia - Continent]]
 - **Name Origin:** Terra and Gaia portmanteau
-- **Is Alive:** No, kinda? is slumbering and makes the 
+- **Is Alive:** No, kinda? is slumbering and makes the [[Teia - Continent]]
 
 ## 🎭 Personality & Motivations
 - **Personality Traits:** Off-putting, 
@@ -25,4 +25,4 @@ aliases:
 - **Allies & Enemies:** 
 
 ## 📜 Notes
-- 
+- [[Death of Teia]]

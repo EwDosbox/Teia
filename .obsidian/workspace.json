@@ -4,77 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "65bd2585e6ce0b94",
+        "id": "86dabc5d31f1c82e",
         "type": "tabs",
         "children": [
           {
-            "id": "a5990fa63c42cd60",
+            "id": "42dc0207ed801327",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Names.md",
+                "file": "NPCs/Oriundus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Names"
-            }
-          },
-          {
-            "id": "b08e90c009858c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Races/Royals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Royals"
-            }
-          },
-          {
-            "id": "82f7f37b36d0609c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Royal Line.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Royal Line"
-            }
-          },
-          {
-            "id": "e93384d904123b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "dff398dfb4261d72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Landmarks/Tomb of Royals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tomb of Royals"
+              "title": "Oriundus"
             }
           }
         ]
@@ -223,30 +167,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5990fa63c42cd60",
+  "active": "42dc0207ed801327",
   "lastOpenFiles": [
-    "Landmarks/Tomb of Royals.md",
-    "Timeline.md",
-    "Royal Line.md",
-    "Races/Royals.md",
+    "2025-03-19.md",
+    "NPCs/Oriundus.md",
     "Events/Eras/Era of Making.md",
+    "Untitled.canvas",
+    "Templates/Era Template.md",
+    "Races/God.md",
+    "NPCs/Gods/Teia - Character.md",
+    "Timeline.md",
+    "Landmarks/Tomb of Royals.md",
     "Landmarks/Cities/Royal City.md",
+    "Landmarks/Teia - Continent.md",
+    "Races/Royals.md",
+    "NPCs/Royals/Royal 1.md",
+    "Royal Line.md",
+    "How to Names.md",
     "Tomb of Royals.md",
     "Templates/Landmark Template.md",
     "Templates/NPC Template.md",
-    "Templates/Era Template.md",
     "Templates/Event Template.md",
     "Templates/Race Template.md",
-    "Landmarks/Teia - Continent.md",
-    "NPCs/Royals/Royal 1.md",
     "Untitled",
-    "How to Names.md",
     "Events/Eras",
-    "NPCs/Gods/Teia - Character.md",
     "NPCs/Royals/Untitled.md",
     "Templates/PC Template.md",
     "NPCs/Royals",
-    "Races/God.md",
     "Races/Untitled.md",
     "To-Do.md",
     "Ideas.md",

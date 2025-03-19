@@ -7,7 +7,7 @@ aliases:
 ## 🏛️ Overview
 - **Race:** [[Royals]]
 - **Occupation/Role:** 
-- **Alignment:** 
+- **Alignment:** [[LE]]
 - **Home:** [[Royal City]]
 - **Name Origin:** 
 - **Is Alive:** Long Dead

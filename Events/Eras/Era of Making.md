@@ -7,8 +7,8 @@ aliases:
 
 ## 📅 Timeframe
 - **Start Year:**  -11
-- **End Year:**  15
-- **Duration:** 26 years
+- **End Year:**  0
+- **Duration:** 11 years
 
 ## 🌍 General Overview
 - **Defining Characteristics:** War against [[Teia - Character]] waged by [[Royal 1]]
@@ -28,12 +28,12 @@ aliases:
 - **Major Political Shifts:** 
 
 ## 📜 Legacy & Impact
-- **How It Ended:** it ended when [[Royal 1]] died heroically in battle against [[thing that killed royal 1]]
+- **How It Ended:** it ended when [[Royal 1]] killed [[Teia - Character]]
 - **Effects on Later Eras:** 
 
 ## 📖 Related Eras
 - **Preceding Era:** 
-- **Following Era:** 
+- **Following Era:** [[Era 02]]
 
 ## 📜 Notes
 - [[Royal City]] was founded in this era

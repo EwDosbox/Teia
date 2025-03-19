@@ -1,5 +1,12 @@
+Its the same as our world in essence. The [[Death of Teia]] is like the fall of Rome. It started a whole new arc of time.
+So 476 in our timeline is 0 in Teia time
+Campaign is around 1436 our time, so 960 teia time
+## Notable Events
+
 - **-50 - -40** [[Royal 1]] is born
 - **-11** [[Era of Making]] is started by [[Royal 1]]
-- **15** [[Era of Making]] ends with [[Death of Teia]]
+- **0**  [[wizards]] cause [[Death of Teia]]
+  - end of [[Era of Making]]
+  - start of [[Era 02]]
 - **812** [[Tomb of Royals]] is robbed
-- **1015** campaign starts
+- **960** [[Main Campaign]] starts

@@ -5,24 +5,26 @@ aliases:
 ---
 
 ## 🧬 General Information
-- **Type:** (Humanoid, Fey, Outsider, etc.)
+- **Type:** Humanoids
 - **Size:** 
 - **Speed:** 
 - **Languages:** 
 
 ## 🌍 Physical & Cultural Traits
 - **Typical Appearance:** 
-- **Common Traits:** 
-- **Lifespan & Aging:** 
+### Common Traits
+Deeply magical beings, thus the long age.
+### Lifespan & Aging
+adulthood is reached at around age 35; normal amount to die at is 150; max is around 160
 - **Society & Customs:** 
-
 ## ⚔️ Racial Traits
 - **Ability Score Modifiers:** 
 - **Special Abilities:** 
 - **Bonus Feats & Skills:** 
-
 ## 🏛️ History & Lore
-- **Origin & Creation Myths:** 
+### Origin & Creation Myths
+[[Royal 1]] was an warlock of [[Teia - Character]]. He betrayed her when he was honored enough by the people to not have to rely on her at all. 
+Since then all his offspring started to bear superhuman capabilities.
 - **Notable Historical Events:** 
 - **Famous Figures:** [[Royal 1]]
 

@@ -2,7 +2,7 @@
 - Class: wizard
 - Race [[Fetchling]]
 - Era: [[Current Era]]
-[[Oriundus]] is an very powerful wizard. Now resides in [[Oriundus's City]]
+[[Oriundus]] is an very powerful wizard. Now resides in [[Oriundus's City]]. He lives in the underground, metaphotrically and literally.
 ## Story
 Oriundus studied at the university in [[Oriundus's City]]. After being too lax and anti-establishment he was fired from it.
 After a rough battle with his rival [[Oriundus's Rival]] he had to flee and now lives in the underground, both literally and methaforically.

@@ -8,5 +8,6 @@ Campaign is around 1436 our time, so 960 teia time
 - **0**  [[wizards]] cause [[Death of Teia]]
   - end of [[Era of Making]]
   - start of [[Era 02]]
+- **434** [[Darque]] založen rodem [[Lutz rod]]
 - **812** [[Tomb of Royals]] is robbed
 - **960** [[Main Campaign]] starts

@@ -114,8 +114,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Darque"
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +183,14 @@
   },
   "active": "42dc0207ed801327",
   "lastOpenFiles": [
+    "Timeline.md",
     "Landmarks/Cities/Darque.md",
+    "NPCs/Lutz.md",
     "NPCs/Royals/Royal Line.md",
     "Random Encounter Table.md",
     "Ideas.md",
     "How to Names.md",
     "NPCs/Ultron.md",
-    "NPCs/Lutz.md",
     "NPCs/Kobold Boy.md",
     "NPCs/Oriundus.md",
     "2025-03-19.md",
@@ -199,7 +199,6 @@
     "Templates/Era Template.md",
     "Races/God.md",
     "NPCs/Gods/Teia - Character.md",
-    "Timeline.md",
     "Landmarks/Tomb of Royals.md",
     "Landmarks/Cities/Royal City.md",
     "Landmarks/Teia - Continent.md",

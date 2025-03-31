@@ -3,21 +3,6 @@ tags:
   - Landmark
 aliases:
 ---
-
-## 🗺️ Overview
-- **Location:** nowadays not in the best part of the [[Royal City]]
-- **Type:** Tomb/Mausoleum
-- **Name Origin:** is a Tomb and is for the royals
-## 🏛️ History & Lore
-- **Origin/Mythology:** 
-- **Era of Founding:** [[Era of Making]]
-- **Significant Events:** 
-## 🌿 Flora & Fauna
-- **Common Creatures:** 
-- **Notable Plants:** [[moss]]
-## 🏠 Settlements & Inhabitants
-- **Major Settlements:** 
-- **Important Figures:** 
-## 📜 Notes
-- has long been abandoned by the kings
-- was raided for goods in **812** [[Timeline]]
+Tomb of the Royals is an mausoleum for the first dynasty that ruled [[Teia - Continent]]. It is located in the [[Royal City]].
+It was made in the [[Era of Making]] specifically for [[Royal 1]]. But his offspring made it later for all of the [[Royals]] of [[dynasty 1]]
+In [[Timeline]] **812** it was raided for goods.

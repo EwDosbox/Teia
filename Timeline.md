@@ -10,4 +10,5 @@ Campaign is around 1436 our time, so 960 teia time
   - start of [[Era 02]]
 - **434** [[Darque]] založen rodem [[Lutz rod]]
 - **812** [[Tomb of Royals]] is robbed
+- **900** [[Current Era]] starts
 - **960** [[Main Campaign]] starts

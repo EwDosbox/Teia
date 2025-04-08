@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86dabc5d31f1c82e",
+        "id": "5c1e91f26dfb0f1b",
         "type": "tabs",
         "children": [
           {
-            "id": "42dc0207ed801327",
+            "id": "86a938622bb9cf81",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -108,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -146,7 +145,8 @@
               "title": "Outline of Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,35 +162,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42dc0207ed801327",
+  "active": "86a938622bb9cf81",
   "lastOpenFiles": [
-    "NPCs/Royals/current royal.md",
+    "anti-paladin.md",
+    "NPCs/Oriundus.md",
+    "NPCs/Sand Boy.md",
+    "NPCs/Ultron.md",
+    "NPCs/Lutz.md",
+    "NPCs/Kobold Boy.md",
+    "NPCs/Royals/Edward.md",
+    "Landmarks/Locations/Desert of Sand Boy.md",
+    "Landmarks/Teia - Continent.md",
     "NPCs/Royals/Royal 1.md",
+    "NPCs/Royals/dead king.md",
+    "Timeline.md",
+    "Landmarks/Sand Place.md",
+    "NPCs/Royals/current royal.md",
     "Races/Royals.md",
     "NPCs/Royals/Royal Line.md",
-    "NPCs/Kobold Boy.md",
-    "NPCs/Ultron.md",
     "Landmarks/Tomb of Royals.md",
     "Events/Eras/Era of Making.md",
     "Landmarks/Cities/Royal City.md",
     "Random Encounter Table.md",
     "Landmarks/Cities/Darque.md",
-    "Timeline.md",
-    "NPCs/Lutz.md",
     "Ideas.md",
     "How to Names.md",
-    "NPCs/Oriundus.md",
     "2025-03-19.md",
     "Untitled.canvas",
     "Templates/Era Template.md",
     "Races/God.md",
-    "NPCs/Gods/Teia - Character.md",
-    "Landmarks/Teia - Continent.md",
-    "Tomb of Royals.md",
-    "Templates/Landmark Template.md",
-    "Templates/NPC Template.md",
-    "Templates/Event Template.md",
-    "Templates/Race Template.md",
     "Untitled",
     "Events/Eras",
     "NPCs/Royals",

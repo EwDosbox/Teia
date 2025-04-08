@@ -1,4 +1,4 @@
-- [[Current Era]]
+- [[Current Era]], [[Kobold]]
 je malý kobold posedlý vědomostmi. Je steretyp wizarda (neni wizard). Pomáhá skupině zjišťovat informace. Ví jak na magic itemy, poklady a nezvyklosti. Ví kdo co chce a za kolik.
 ## RP
 "neexistuje nic jako cetka pouze je v špatných rukách"

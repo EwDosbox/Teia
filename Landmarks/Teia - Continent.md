@@ -3,6 +3,8 @@ tags:
   - Landmark
 aliases:
 ---
+## Cities
+[[Oriundus's City]], [[Darque]], [[Royal City]]
 ## 🗺️ Overview
 - **Type:** Continent
 - **Name Origin:** Terra and Gaia portmanteau

@@ -1,2 +1,2 @@
-[[dynasty 2]], [[Royal City]], [[Royals]]
+[[dynasty 2]], [[Royal City]], [[Royal]]
 - CR: 18

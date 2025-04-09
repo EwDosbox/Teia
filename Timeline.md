@@ -8,6 +8,7 @@ Campaign is around 1436 our time, so 960 teia time
 - **0**  [[Wizards]] cause [[Death of Teia]]
   - end of [[Era of Making]]
   - start of [[Era 02]]
+- **336** [[Tahal]] is fully abandoned 
 - **434** [[Darque]] založen rodem [[Lutz rod]]
 - **812** [[Tomb of Royals]] is robbed
 - **900** [[Current Era]] starts

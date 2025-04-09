@@ -5,39 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#NPC",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#Landmark  ",
-      "color": {
-        "a": 1,
-        "rgb": 6479954
-      }
-    },
-    {
-      "query": "tag:#Race  ",
-      "color": {
-        "a": 1,
-        "rgb": 3365360
-      }
-    },
-    {
-      "query": "tag:#Class",
-      "color": {
-        "a": 1,
-        "rgb": 13619752
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -46,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6284182979029173,
+  "scale": 0.6149691066635924,
   "close": true
 }

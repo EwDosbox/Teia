@@ -20,21 +20,48 @@
             }
           },
           {
-            "id": "dac1622edb82b7d8",
+            "id": "24c3c3b129b58755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Factions/Wizards.md",
+                "file": "NPCs/Calar Alto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wizards"
+              "title": "Calar Alto"
+            }
+          },
+          {
+            "id": "81cbb2bc3708ac20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Class/anti-paladin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "anti-paladin"
+            }
+          },
+          {
+            "id": "f79456d047c9d17f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Landmarks/Locations/Tahal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tahal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Factions/Wizards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wizards"
+              "title": "Backlinks"
             }
           },
           {
@@ -180,36 +206,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dac1622edb82b7d8",
+  "active": "0ee790b8eda87683",
   "lastOpenFiles": [
+    "Landmarks/Locations/Tahal.md",
+    "NPCs/Class/anti-paladin.md",
+    "NPCs/Calar Alto.md",
+    "NPCs/Ewan.md",
+    "Timeline.md",
+    "Landmarks/Teia - Continent.md",
+    "NPCs/James, Salada the Fruta.md",
+    "Landmarks/Locations/Tabernas Desert.md",
     "NPCs/Factions/Wizards.md",
-    "Oriundus's City.md",
+    "Landmarks/Cities/Oriundus's City.md",
     "NPCs/Class",
     "Races/Changeling.md",
     "Races/Kobold.md",
     "Races/Magical Beast.md",
     "NPCs/Class/bard.md",
     "NPCs/Class/barbarian.md",
-    "Landmarks/Teia - Continent.md",
     "Races/Fetchling.md",
-    "NPCs/Class/anti-paladin.md",
     "NPCs/Class/wizard.md",
     "Races/human.md",
     "NPCs/Kobold Boy.md",
     "Landmarks/Locations/Tomb of Royals.md",
-    "Landmarks/Locations/Sand Place.md",
-    "Landmarks/Locations/Desert of Sand Boy.md",
     "Landmarks/Cities/Royal City.md",
     "Landmarks/Cities/Darque.md",
     "Untitled.canvas",
     "NPCs/witch 1.md",
     "NPCs/Ultron.md",
-    "NPCs/Sand Boy.md",
     "NPCs/Ru.md",
     "NPCs/Oriundus.md",
-    "NPCs/Lutz.md",
-    "NPCs/Ewan.md",
-    "NPCs/Royals/Royal 1.md",
     "NPCs/Factions",
     "Lore/Eras",
     "NPCs/Royals",

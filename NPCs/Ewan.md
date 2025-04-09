@@ -1,4 +1,4 @@
-[[Magical Beast]], [[anti-paladin]], #NPC
+[[Magical Beast]], [[anti-paladin]], #NPC, [[CE]]
 ## Description
 Beautiful Man with a metallic glare in his face.
 ## Relationship

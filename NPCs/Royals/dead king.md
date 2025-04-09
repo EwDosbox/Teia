@@ -1,4 +1,4 @@
-- [[Royal]]
+- [[Royal]], #NPC
 ## Relationships
 ### Legitimate
 - Father of [[current royal]]

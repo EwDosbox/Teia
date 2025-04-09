@@ -4,38 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "45a9c5e542651899",
+        "id": "79f11e1e9cd05db7",
         "type": "tabs",
         "children": [
           {
-            "id": "1b45d1034f2ddd8c",
+            "id": "0ee790b8eda87683",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideas"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "c09bf2429975f443",
+            "id": "dac1622edb82b7d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "witch 1.md",
+                "file": "NPCs/Factions/Wizards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "witch 1"
+              "title": "Wizards"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Landmark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPCs/Factions/Wizards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Wizards"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "NPCs/Factions/Wizards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ideas"
+              "title": "Outgoing links from Wizards"
             }
           },
           {
@@ -155,21 +155,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "NPCs/Factions/Wizards.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Wizards"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,44 +180,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b45d1034f2ddd8c",
+  "active": "dac1622edb82b7d8",
   "lastOpenFiles": [
-    "Mitra.md",
-    "Landmarks/Sand Place.md",
-    "NPCs/Oriundus.md",
-    "Lyssa.md",
-    "witch 1.md",
-    "Oriundus's Party.md",
-    "NPCs/Ewan.md",
-    "NPCs/Sand Boy.md",
-    "Ideas.md",
-    "Alignments.md",
-    "Ru.md",
-    "Landmarks/Teia - Continent.md",
-    "Landmarks/Tomb of Royals.md",
-    "NPCs/Kobold Boy.md",
-    "NPCs/Lutz.md",
-    "NPCs/Ultron.md",
-    "Races/Royal.md",
+    "NPCs/Factions/Wizards.md",
+    "Oriundus's City.md",
+    "NPCs/Class",
+    "Races/Changeling.md",
+    "Races/Kobold.md",
     "Races/Magical Beast.md",
-    "NPCs/Royals/dead king.md",
-    "anti-paladin.md",
-    "NPCs/Royals/Edward.md",
+    "NPCs/Class/bard.md",
+    "NPCs/Class/barbarian.md",
+    "Landmarks/Teia - Continent.md",
+    "Races/Fetchling.md",
+    "NPCs/Class/anti-paladin.md",
+    "NPCs/Class/wizard.md",
+    "Races/human.md",
+    "NPCs/Kobold Boy.md",
+    "Landmarks/Locations/Tomb of Royals.md",
+    "Landmarks/Locations/Sand Place.md",
     "Landmarks/Locations/Desert of Sand Boy.md",
-    "NPCs/Royals/Royal 1.md",
-    "Timeline.md",
-    "NPCs/Royals/current royal.md",
-    "NPCs/Royals/Royal Line.md",
+    "Landmarks/Cities/Royal City.md",
+    "Landmarks/Cities/Darque.md",
     "Untitled.canvas",
-    "Untitled",
-    "Events/Eras",
+    "NPCs/witch 1.md",
+    "NPCs/Ultron.md",
+    "NPCs/Sand Boy.md",
+    "NPCs/Ru.md",
+    "NPCs/Oriundus.md",
+    "NPCs/Lutz.md",
+    "NPCs/Ewan.md",
+    "NPCs/Royals/Royal 1.md",
+    "NPCs/Factions",
+    "Lore/Eras",
     "NPCs/Royals",
     "Races",
     "NPCs/Gods",
-    "Events",
+    "Lore",
     "Landmarks/Locations",
     "Landmarks/Cities",
-    "Landmarks",
-    "NPCs"
+    "Landmarks"
   ]
 }

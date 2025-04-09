@@ -1,5 +1,5 @@
 - CR:  18
-- [[wizard]], [[Fetchling]], [[Current Era]], [[CN]]
+- [[wizard]], [[Fetchling]], [[Current Era]], [[CN]], #NPC
 [[Oriundus]] is an very powerful wizard. He now resides in [[Oriundus's City]]. He lives in the underground both metaphorically and literally.
 ## Story
 Oriundus studied at the university in [[Oriundus's City]]. After being too lax and anti-establishment he was fired from it.

@@ -1,4 +1,4 @@
-- [[LG]]
+- [[LG]], #NPC
 ## Description
 [[Magical Beast]] of **animated white sand**. He is *Incorporeal*, all attacks phase through him and scratch up the weapon.
 Inside his ever-changing form is a bleak orange light, his core.

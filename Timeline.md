@@ -5,7 +5,7 @@ Campaign is around 1436 our time, so 960 teia time
 
 - **-50 - -40** [[Royal 1]] is born
 - **-11** [[Era of Making]] is started by [[Royal 1]]
-- **0**  [[wizards]] cause [[Death of Teia]]
+- **0**  [[Wizards]] cause [[Death of Teia]]
   - end of [[Era of Making]]
   - start of [[Era 02]]
 - **434** [[Darque]] založen rodem [[Lutz rod]]

@@ -1,1 +1,0 @@
-- [[bard]], [[Royal City]]

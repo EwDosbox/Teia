@@ -1,8 +1,4 @@
----
-tags:
-  - NPC
-aliases:
----
+- #NPC
 ## 🏛️ Overview
 - **Race:** [[God]]
 - **Occupation/Role:** 

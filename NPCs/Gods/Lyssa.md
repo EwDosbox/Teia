@@ -1,4 +1,4 @@
-- [[CN]]
+- [[CN]] #NPC 
 ## Description
 She is a mighty [[barbarian]] female dressed in the pelt of the [[Great Bear]], whom she can summon by tossing the pelt to the ground and calling its name
 ## Lore

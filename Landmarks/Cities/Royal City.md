@@ -1,10 +1,4 @@
----
-tags:
-  - Landmark
-  - City
-aliases:
----
-[[Teia - Continent]],  
+[[Teia - Continent]],  #Landmark
 ## 🗺️ Overview
 - **Location:** 
 - **Type:**

@@ -21,7 +21,7 @@ aliases:
 
 ## 👑 Important Figures & Factions
 - **Rulers & Leaders:** [[Royal 1]]
-- **Powerful Organizations:** [[wizards]]
+- **Powerful Organizations:** [[Wizards]]
 
 ## ⚔️ Conflicts & Alliances
 - **Notable Wars & Battles:** 

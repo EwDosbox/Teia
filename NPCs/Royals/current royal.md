@@ -1,2 +1,2 @@
-[[dynasty 2]], [[Royal City]], [[Royal]], #NPC
+[[2. Dynasty]], [[Royal City]], [[Royal]], #NPC
 - CR: 18

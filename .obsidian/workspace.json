@@ -18,48 +18,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "24c3c3b129b58755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Calar Alto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calar Alto"
-            }
-          },
-          {
-            "id": "81cbb2bc3708ac20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Class/anti-paladin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "anti-paladin"
-            }
-          },
-          {
-            "id": "f79456d047c9d17f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Landmarks/Locations/Tahal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tahal"
-            }
           }
         ]
       }
@@ -208,11 +166,22 @@
   },
   "active": "0ee790b8eda87683",
   "lastOpenFiles": [
+    "Random Encounter Table.md",
+    "Magical Items",
+    "Magical Items/Spectre of TEMP.md",
+    "Lore/Age of Discovery.md",
+    "NPCs/Pelagius.md",
+    "Untitled.md",
+    "Timeline.md",
+    "NPCs/Royals/Dead King.md",
+    "NPCs/Hatchet.md",
+    "NPCs/Royals/Edward.md",
+    "Alignments.md",
+    "2. Dynasty.md",
     "Landmarks/Locations/Tahal.md",
     "NPCs/Class/anti-paladin.md",
     "NPCs/Calar Alto.md",
     "NPCs/Ewan.md",
-    "Timeline.md",
     "Landmarks/Teia - Continent.md",
     "NPCs/James, Salada the Fruta.md",
     "Landmarks/Locations/Tabernas Desert.md",
@@ -225,17 +194,7 @@
     "NPCs/Class/bard.md",
     "NPCs/Class/barbarian.md",
     "Races/Fetchling.md",
-    "NPCs/Class/wizard.md",
-    "Races/human.md",
-    "NPCs/Kobold Boy.md",
-    "Landmarks/Locations/Tomb of Royals.md",
-    "Landmarks/Cities/Royal City.md",
-    "Landmarks/Cities/Darque.md",
     "Untitled.canvas",
-    "NPCs/witch 1.md",
-    "NPCs/Ultron.md",
-    "NPCs/Ru.md",
-    "NPCs/Oriundus.md",
     "NPCs/Factions",
     "Lore/Eras",
     "NPCs/Royals",
@@ -243,7 +202,6 @@
     "NPCs/Gods",
     "Lore",
     "Landmarks/Locations",
-    "Landmarks/Cities",
-    "Landmarks"
+    "Landmarks/Cities"
   ]
 }

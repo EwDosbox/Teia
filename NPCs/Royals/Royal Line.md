@@ -1,5 +1,5 @@
 ## [[dynasty 1]]
 - 0 - -11 [[Royal 1]]
-## [[dynasty 2]]
-- somewhere in **500s** royal line changed to a different [[dynasty 2]]
+## [[2. Dynasty]]
+- somewhere in **500s** royal line changed to a different [[2. Dynasty]]
 - [[current royal]]

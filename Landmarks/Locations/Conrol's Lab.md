@@ -1,0 +1,1 @@
+- #Landmark, [[Conrol]], [[vynálezce]], [[Asturia]]

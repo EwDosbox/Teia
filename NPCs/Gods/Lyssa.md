@@ -6,4 +6,5 @@ One of the [[God]]s. Was on par with [[Teia - Character]].  Lyssa is the embodim
 ## Role Play
 She is worshipped by offering living beings and killing them with great prowess.
 She likes being cursed and helps more those who are critical of her.
+[[Mark of Lyssa]]
 ## Relationship 

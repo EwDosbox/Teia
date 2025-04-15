@@ -1,0 +1,1 @@
+[[Asturia]], [[Tabernas Desert]], [[Royal Region]]

@@ -1,18 +1,8 @@
 [[Teia - Continent]],  #Landmark
-## 🗺️ Overview
-- **Location:** 
-- **Type:**
-- **Climate & Terrain:** 
-- **Name Origin:** 
-## 🏛️ History & Lore
-- **Origin/Mythology:** 
-- **Era of Founding:** in [[Era of Making]] by the king at the time [[Royal 1]]
-- **Significant Events:** 
-## 🌿 Flora & Fauna
-- **Common Creatures:** 
-- **Notable Plants:** 
-## 🏠 Settlements & Inhabitants
-- **Major Settlements:** 
-- **Important Figures:** 
-## 📜 Notes
-- [[Tomb of Royals]] is located here
+## Story
+Founded by [[Royal 1]] after [[Death of Teia]] in the [[Era of Making]].
+Seat of the [[current royal]].
+## Landmarks
+[[Tomb of Royals]]
+## People
+[[current royal]], [[Ru]]

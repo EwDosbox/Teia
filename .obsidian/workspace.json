@@ -18,8 +18,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "a30b572617767618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Landmarks/Major Areas/Asturia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asturia"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Landmarks/Major Areas/Asturia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +117,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Asturia"
             }
           },
           {
@@ -164,44 +180,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ee790b8eda87683",
+  "active": "2f23e835accb0ed0",
   "lastOpenFiles": [
+    "NPCs/Construct/Conrol.md",
+    "Landmarks/Locations/Conrol's Plane.md",
+    "Landmarks/Major Areas/Asturia.md",
+    "Landmarks/Major Areas/Royal Region.md",
+    "Landmarks/Locations/Conrol's Lab.md",
+    "Races/Construct.md",
+    "Magical Items/Conrol's Core.md",
+    "NPCs/Construct",
+    "NPCs/Gods/Lyssa.md",
+    "Landmarks/Major Areas/Great Mountains.md",
+    "NPCs/Magical Beasts/Hatchet.md",
+    "Landmarks/Locations/Hatchet's Hideout.md",
+    "NPCs/Royals/Edward.md",
+    "NPCs/Magical Beasts/Calar Alto.md",
+    "NPCs/Royals/dead king.md",
+    "Landmarks/Teia - Continent.md",
+    "Landmarks/Major Areas/Tabernas Desert.md",
+    "Landmarks/Locations/Tomb of Royals.md",
+    "Landmarks/Cities/Tahal.md",
+    "Landmarks/Cities/Royal City.md",
+    "Landmarks/Cities/Oriundus's City.md",
+    "Landmarks/Cities/Darque.md",
+    "Landmarks/Major Areas/Major Area.md",
+    "NPCs/Misc",
+    "NPCs/Human",
+    "NPCs/Magical Beasts",
+    "Landmarks/Major Areas",
+    "Untitled.md",
+    "NPCs/Misc/Kobold Boy.md",
     "Random Encounter Table.md",
     "Magical Items",
     "Magical Items/Spectre of TEMP.md",
-    "Lore/Age of Discovery.md",
-    "NPCs/Pelagius.md",
-    "Untitled.md",
-    "Timeline.md",
-    "NPCs/Royals/Dead King.md",
-    "NPCs/Hatchet.md",
-    "NPCs/Royals/Edward.md",
-    "Alignments.md",
-    "2. Dynasty.md",
-    "Landmarks/Locations/Tahal.md",
-    "NPCs/Class/anti-paladin.md",
-    "NPCs/Calar Alto.md",
-    "NPCs/Ewan.md",
-    "Landmarks/Teia - Continent.md",
-    "NPCs/James, Salada the Fruta.md",
-    "Landmarks/Locations/Tabernas Desert.md",
-    "NPCs/Factions/Wizards.md",
-    "Landmarks/Cities/Oriundus's City.md",
     "NPCs/Class",
-    "Races/Changeling.md",
-    "Races/Kobold.md",
-    "Races/Magical Beast.md",
-    "NPCs/Class/bard.md",
-    "NPCs/Class/barbarian.md",
-    "Races/Fetchling.md",
     "Untitled.canvas",
     "NPCs/Factions",
     "Lore/Eras",
-    "NPCs/Royals",
-    "Races",
-    "NPCs/Gods",
-    "Lore",
-    "Landmarks/Locations",
-    "Landmarks/Cities"
+    "NPCs/Royals"
   ]
 }

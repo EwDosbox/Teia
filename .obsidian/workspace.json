@@ -20,49 +20,49 @@
             }
           },
           {
-            "id": "18b7c1b0bb68bda3",
+            "id": "31f9b2561b5549e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/First Dynasty.md",
+                "file": "Landmarks/2 Big/Tree City.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Dynasty"
+              "title": "Tree City"
             }
           },
           {
-            "id": "effbd0c4e28667fa",
+            "id": "21da826440b8aea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landmarks/1 Major/Royal Region.md",
+                "file": "Lore/Cortex Vetus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Royal Region"
+              "title": "Cortex Vetus"
             }
           },
           {
-            "id": "d73ef5d5594a1742",
+            "id": "2920c762e958a8c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landmarks/2 Big/Royal City.md",
+                "file": "NPCs/Magical Beasts/Calar Alto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Royal City"
+              "title": "Calar Alto"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/First Dynasty.md",
+                "file": "Lore/Cortex Vetus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for First Dynasty"
+              "title": "Backlinks for Cortex Vetus"
             }
           },
           {
@@ -208,28 +208,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18b7c1b0bb68bda3",
+  "active": "2f23e835accb0ed0",
   "lastOpenFiles": [
+    "Lore/Cortex Vetus.md",
+    "Landmarks/2 Big/Tree City.md",
+    "Landmarks/1 Major/Asturia.md",
+    "Landmarks/3 Medium/Twin Castles.md",
+    "NPCs/Magical Beasts/Calar Alto.md",
+    "Landmarks/3 Medium/Tahal.md",
+    "Landmarks/1 Major/Agarve.md",
+    "Lore/First Dynasty.md",
     "Landmarks/2 Big/Royal City.md",
     "Landmarks/1 Major/Royal Region.md",
     "NPCs/Class/bard.md",
     "NPCs/Human/Ru.md",
     "Landmarks/4 Small/Tomb of Royals.md",
     "Landmarks/4 Small/Hatchet's Hideout.md",
-    "Lore/First Dynasty.md",
     "Landmarks/Major Area.md",
     "Landmarks/1 Major/Tabernas Desert.md",
-    "Landmarks/1 Major/Asturia.md",
     "Landmarks/4 Small/Conrol's Lab.md",
     "NPCs/Construct/Conrol.md",
-    "Landmarks/3 Medium/Twin Castles.md",
-    "Landmarks/3 Medium/Tahal.md",
     "Landmarks/3 Medium/Conrol's Plane.md",
     "Landmarks/2 Big/Oriundus's City.md",
     "Landmarks/2 Big/Darque.md",
     "Landmarks/1 Major/Great Mountains.md",
     "Untitled.canvas",
-    "Landmarks/1 Major/Agarve.md",
     "Landmarks/1 Major",
     "Landmarks/4 Small",
     "Landmarks/2 Big",
@@ -239,9 +242,6 @@
     "Magical Items/Conrol's Core.md",
     "NPCs/Construct",
     "NPCs/Gods/Lyssa.md",
-    "NPCs/Magical Beasts/Hatchet.md",
-    "NPCs/Royals/Edward.md",
-    "NPCs/Magical Beasts/Calar Alto.md",
     "NPCs/Misc",
     "NPCs/Human",
     "NPCs/Magical Beasts",

@@ -1,5 +1,5 @@
 - #NPC, [[LE]]
-He was the first [[Royal]] of the [[dynasty 1]]
+He was the first [[Royal]] of the [[First Dynasty]]
 ## Description
 
 ## Lore

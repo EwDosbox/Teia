@@ -11,14 +11,7 @@
       "query": "tag:#NPC  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#Landmark  ",
-      "color": {
-        "a": 1,
-        "rgb": 65280
+        "rgb": 16711935
       }
     },
     {
@@ -34,6 +27,34 @@
         "a": 1,
         "rgb": 255
       }
+    },
+    {
+      "query": "tag:#Major  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "tag:#Big  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#Medium  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743680
+      }
+    },
+    {
+      "query": "tag:#Small  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6149691066635926,
+  "scale": 0.5695217507788441,
   "close": true
 }

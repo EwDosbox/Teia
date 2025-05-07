@@ -1,3 +1,4 @@
+- #Medium
 ## Description
 It resembles an endless, symmetrical grid of dark metal platforms, floating in a void lit by flickering energy currents. Gravity shifts subtly. Everything buzzes with restrained magical force. It is cold and sterile filled with disassembled models, mechanical horrors and other various mechanical toys. 
 ## Story

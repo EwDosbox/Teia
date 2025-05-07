@@ -1,0 +1,2 @@
+- #Small
+- [[Conrol]], [[vynálezce]], [[Asturia]]

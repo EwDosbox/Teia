@@ -20,17 +20,45 @@
             }
           },
           {
-            "id": "a30b572617767618",
+            "id": "18b7c1b0bb68bda3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landmarks/Major Areas/Agarve.md",
+                "file": "Lore/First Dynasty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agarve"
+              "title": "First Dynasty"
+            }
+          },
+          {
+            "id": "effbd0c4e28667fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Landmarks/1 Major/Royal Region.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Royal Region"
+            }
+          },
+          {
+            "id": "d73ef5d5594a1742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Landmarks/2 Big/Royal City.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Royal City"
             }
           }
         ],
@@ -107,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landmarks/Major Areas/Agarve.md",
+                "file": "Lore/First Dynasty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +145,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Agarve"
+              "title": "Backlinks for First Dynasty"
             }
           },
           {
@@ -180,44 +208,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a30b572617767618",
+  "active": "18b7c1b0bb68bda3",
   "lastOpenFiles": [
-    "Landmarks/Locations/Twin Castles.md",
-    "Landmarks/Major Areas/Agarve.md",
-    "NPCs/Construct/Conrol.md",
+    "Landmarks/2 Big/Royal City.md",
+    "Landmarks/1 Major/Royal Region.md",
+    "NPCs/Class/bard.md",
+    "NPCs/Human/Ru.md",
+    "Landmarks/4 Small/Tomb of Royals.md",
+    "Landmarks/4 Small/Hatchet's Hideout.md",
+    "Lore/First Dynasty.md",
     "Landmarks/Major Area.md",
+    "Landmarks/1 Major/Tabernas Desert.md",
+    "Landmarks/1 Major/Asturia.md",
+    "Landmarks/4 Small/Conrol's Lab.md",
+    "NPCs/Construct/Conrol.md",
+    "Landmarks/3 Medium/Twin Castles.md",
+    "Landmarks/3 Medium/Tahal.md",
+    "Landmarks/3 Medium/Conrol's Plane.md",
+    "Landmarks/2 Big/Oriundus's City.md",
+    "Landmarks/2 Big/Darque.md",
+    "Landmarks/1 Major/Great Mountains.md",
+    "Untitled.canvas",
+    "Landmarks/1 Major/Agarve.md",
+    "Landmarks/1 Major",
+    "Landmarks/4 Small",
+    "Landmarks/2 Big",
+    "Landmarks/3 Medium",
     "NPCs/Royals/Royal 1.md",
-    "Lore/dynasty 1.md",
-    "Landmarks/Major Areas/Asturia.md",
-    "Landmarks/Major Areas/Tabernas Desert.md",
-    "Landmarks/Locations/Conrol's Plane.md",
-    "Landmarks/Major Areas/Royal Region.md",
-    "Landmarks/Locations/Conrol's Lab.md",
     "Races/Construct.md",
     "Magical Items/Conrol's Core.md",
     "NPCs/Construct",
     "NPCs/Gods/Lyssa.md",
-    "Landmarks/Major Areas/Great Mountains.md",
     "NPCs/Magical Beasts/Hatchet.md",
-    "Landmarks/Locations/Hatchet's Hideout.md",
     "NPCs/Royals/Edward.md",
     "NPCs/Magical Beasts/Calar Alto.md",
-    "NPCs/Royals/dead king.md",
-    "Landmarks/Teia - Continent.md",
-    "Landmarks/Locations/Tomb of Royals.md",
-    "Landmarks/Cities/Tahal.md",
-    "Landmarks/Cities/Royal City.md",
-    "Landmarks/Cities/Oriundus's City.md",
-    "Landmarks/Cities/Darque.md",
     "NPCs/Misc",
     "NPCs/Human",
     "NPCs/Magical Beasts",
     "Landmarks/Major Areas",
-    "Magical Items",
-    "NPCs/Class",
-    "Untitled.canvas",
-    "NPCs/Factions",
-    "Lore/Eras",
-    "NPCs/Royals"
+    "Magical Items"
   ]
 }

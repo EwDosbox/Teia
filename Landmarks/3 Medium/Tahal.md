@@ -1,4 +1,4 @@
-- #Landmark
+- #Medium
 ## Lore
 Was built as one of the earliest settlements on [[Teia - Continent]]. Served as a sanctuary of worshippers of the [[Old Continent]] [[God]]s 
 It was abandoned in the [[Timeline]] 

@@ -1,5 +1,5 @@
-- #Landmark
-One of the [[Major Area]]s of [[Teia - Continent]] and [[Kingdom of TEMP]]. [[Pelagius]] was them most important noble of this region. He lead the [[Crusade]] against [[Kingdom of the Races]].
+- #Major
+One of the Major Areas of [[Teia - Continent]] and [[Kingdom of TEMP]]. [[Pelagius]] was them most important noble of this region. He lead the [[Crusade]] against [[Kingdom of the Races]].
 ## Landmarks
 [[Darque]], [[Conrol's Lab]], [[Great Mountains]]
 ## People

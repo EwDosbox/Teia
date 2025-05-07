@@ -9,4 +9,4 @@ Adulthood is reached at around age 35; normal amount to die at is 150; max is ar
 ## Lore
 [[Royal 1]] was an warlock of [[Teia - Character]]. He betrayed her when he was honored enough by the people to not have to rely on her at all. Since then all his offspring started to bear superhuman capabilities.
 ## Roleplay
-[[Tomb of Royals]] is where [[dynasty 1]] kings and other notable figures were buried.
+[[Tomb of Royals]] is where [[First Dynasty]] kings and other notable figures were buried.

@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landmarks/Major Areas/Asturia.md",
+                "file": "Landmarks/Major Areas/Agarve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asturia"
+              "title": "Agarve"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landmarks/Major Areas/Asturia.md",
+                "file": "Landmarks/Major Areas/Agarve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Asturia"
+              "title": "Backlinks for Agarve"
             }
           },
           {
@@ -180,11 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f23e835accb0ed0",
+  "active": "a30b572617767618",
   "lastOpenFiles": [
+    "Landmarks/Locations/Twin Castles.md",
+    "Landmarks/Major Areas/Agarve.md",
     "NPCs/Construct/Conrol.md",
-    "Landmarks/Locations/Conrol's Plane.md",
+    "Landmarks/Major Area.md",
+    "NPCs/Royals/Royal 1.md",
+    "Lore/dynasty 1.md",
     "Landmarks/Major Areas/Asturia.md",
+    "Landmarks/Major Areas/Tabernas Desert.md",
+    "Landmarks/Locations/Conrol's Plane.md",
     "Landmarks/Major Areas/Royal Region.md",
     "Landmarks/Locations/Conrol's Lab.md",
     "Races/Construct.md",
@@ -198,22 +204,16 @@
     "NPCs/Magical Beasts/Calar Alto.md",
     "NPCs/Royals/dead king.md",
     "Landmarks/Teia - Continent.md",
-    "Landmarks/Major Areas/Tabernas Desert.md",
     "Landmarks/Locations/Tomb of Royals.md",
     "Landmarks/Cities/Tahal.md",
     "Landmarks/Cities/Royal City.md",
     "Landmarks/Cities/Oriundus's City.md",
     "Landmarks/Cities/Darque.md",
-    "Landmarks/Major Areas/Major Area.md",
     "NPCs/Misc",
     "NPCs/Human",
     "NPCs/Magical Beasts",
     "Landmarks/Major Areas",
-    "Untitled.md",
-    "NPCs/Misc/Kobold Boy.md",
-    "Random Encounter Table.md",
     "Magical Items",
-    "Magical Items/Spectre of TEMP.md",
     "NPCs/Class",
     "Untitled.canvas",
     "NPCs/Factions",

@@ -8,10 +8,12 @@ Campaign is around 1436 our time, so 960 teia time
 - **0**  [[Wizards]] cause [[Death of Teia]]
   - end of [[Era of Making]]
   - start of [[Era 02]]
+- **127** [[The World Tree]] was planted
 - **336** [[Tahal]] is fully abandoned 
 - **401** [[Spectre of TEMP]] is made
 - **434** [[Darque]] založen rodem [[Lutz rod]]
 - **535** [[2. Dynasty]] wins over the [[Royal Line]]
+- **658** [[The World Tree]] dies of old age and starts to rot
 - **812** [[Tomb of Royals]] is robbed
 - **900** [[Current Era]] starts
 - **960** [[Main Campaign]] starts

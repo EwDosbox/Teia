@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "tag:#Quest  ",
+      "color": {
+        "a": 1,
+        "rgb": 10878878
+      }
     }
   ],
   "collapse-display": true,

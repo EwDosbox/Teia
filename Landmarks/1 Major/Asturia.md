@@ -6,8 +6,7 @@ Once the jewel of magical warfare, [[Asturia]] was the launch point for [[Pelagi
 ### Big
 - [[Darque]]
 - [[Tree City]]
-### Medium
 ### Small
-- [[Conrol's Lab]]
+- [[Pafacm's Lab]]
 ## NPCs
-[[Conrol]]
+[[Pafacm]]

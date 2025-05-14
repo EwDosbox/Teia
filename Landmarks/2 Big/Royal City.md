@@ -1,4 +1,5 @@
-[[Teia - Continent]],  #Big
+- #Big 
+- [[Royal Region]]
 ## Story
 Founded by [[Royal 1]] after [[Death of Teia]] in the [[Era of Making]].
 Seat of the [[current royal]].

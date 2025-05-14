@@ -1,4 +1,5 @@
 - #Medium 
+- [[Tree City]], [[Asturia]]
 - Quests: [[Purify The World Tree]]
 ## Description
 ## Landmarks

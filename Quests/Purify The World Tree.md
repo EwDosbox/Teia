@@ -1,6 +1,7 @@
 - #Quest
-- Place: [[Tree City]]
+- Place: [[Tree City]], [[Tree Catacombs]]
 ## Summary
-1. Get magical cleaning supplies from [[Monk Purifier NPC]]
-2. Purify the walls water supply of [[Tree City]]
-3. Kill the [[Rot Monster]]
+1. Visit [[TEMP Monastery]]
+2. Get magical cleaning supplies from [[Resial]]
+3. Purify the walls water supply of [[Tree City]] in the [[Tree Catacombs]]
+4. Kill the [[Rot Monster]]

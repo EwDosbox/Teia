@@ -1,2 +1,3 @@
 - #Small
-- [[Pafacm]], [[vynálezce]], [[Asturia]]
+- [[Asturia]]
+- [[Pafacm]], [[vynálezce]]

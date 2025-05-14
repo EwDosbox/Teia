@@ -1,5 +1,6 @@
 - #Big 
-City in an fallen [[Cortex Vetus]]
+- [[Asturia]]
+City in [[Asturia]] within an fallen [[Cortex Vetus]]
 ## Description
 A lively city under an massive rotting [[Cortex Vetus]] named [[The World Tree]]. Its relatively short roots keep falling on the protective net over the cities main part. In other parts citizens just deal with constant repairs.
 ## Lore

@@ -3,8 +3,13 @@
 ### Big
 - [[Royal City]]
 ### Medium
-
+- [[Silvatessim]]
 ### Small
-- [[Tomb of Royals]], [[Hatchet's Hideout]]
+- [[Tomb of Royals]]
+- [[Hatchet's Hideout]]
 ## NPC
 [[current royal]], [[Hatchet]]
+## Relations
+- [[Agarve]] to the north-east
+- [[Asturia]] to the east
+- [[Tabernas Desert]] to south-east and south

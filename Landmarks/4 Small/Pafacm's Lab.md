@@ -1,3 +1,0 @@
-- #Small
-- [[Asturia]]
-- [[Pafacm]], [[vynálezce]]

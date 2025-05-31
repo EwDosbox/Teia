@@ -7,13 +7,13 @@ Once the jewel of magical warfare, [[Asturia]] was the launch point for [[Pelagi
 - [[Darque]]
 - [[Tree City]]
 ### Small
-- [[Pafacm's Lab]]
+- [[Diploria's Inventions]]
 - [[Tree Catacombs]]
 ## NPCs
 - [[Lutz]]
 - [[Resial]]
 ### Enemies
 - [[Rot Monster]]
-- [[Pafacm]]
+- [[Salvator Mundi]]
 ### Dead
-- [[Pelagius]], [[vynálezce]]
+- [[Pelagius]], [[Diploria Sclera]]

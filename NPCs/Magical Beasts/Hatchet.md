@@ -7,4 +7,4 @@ His horns are twisted towards the sky. They rest upon his head that seems too bi
 His neck is a big weakness. Theres a lot of blood vessels and nerves. (2x damage + 1d4 bleed)
 ## Story
 Lives in an inconspicuous cave, called [[Hatchet's Hideout]] by locals.
-He has killed [[dead king]] quite easily. 
+He has killed [[Dead King]] quite easily. 

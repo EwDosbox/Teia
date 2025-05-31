@@ -1,4 +1,4 @@
-- [[Royal]], #NPC
+- [[Royal]], #LoreNPC
 ## Story
 Was one of the only good kings [[Teia - Continent]] had. 
 Has unfortunately passed away on a quest to kill a magical beast called [[Hatchet]]. His body was never found.

@@ -12,4 +12,4 @@
 ## Relations
 - [[Agarve]] to the north-east
 - [[Asturia]] to the east
-- [[Tabernas Desert]] to south-east and south
+- [[Tabernas]] to south-east and south

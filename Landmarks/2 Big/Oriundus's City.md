@@ -8,4 +8,4 @@
 - [[Oriundus]]
 - [[Chester]]
 ## Relations
-- Northern part of the [[Tabernas Desert]]
+- Northern part of the [[Tabernas]]

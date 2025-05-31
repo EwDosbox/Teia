@@ -1,4 +1,4 @@
-- #NPC
+- #LoreNPC
 ## 🏛️ Overview
 - **Race:** [[God]]
 - **Occupation/Role:** 

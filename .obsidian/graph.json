@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 10878878
       }
+    },
+    {
+      "query": "tag:#LoreNPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 16716977
+      }
     }
   ],
   "collapse-display": true,

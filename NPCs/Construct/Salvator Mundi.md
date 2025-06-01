@@ -1,4 +1,4 @@
-- CR: grows continually with the party of [[Main Campaign]].
+- CR: grows continually with the party of [[Mundi Campaign]].
 - [[Current Era]], [[Construct]], [[LE]], #NPC
 ## Description
 [[Construct]] made to destroy and fight. His plates are scratched up with the names of his fallen foes. His core is a magical artifact ([[Mundi's Core]]) that stays there after his death and teleportation to [[Mundi's Plane]].

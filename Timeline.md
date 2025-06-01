@@ -16,4 +16,4 @@ Campaign is around 1436 our time, so 960 teia time
 - **658** [[The World Tree]] dies of old age and starts to rot
 - **812** [[Tomb of Royals]] is robbed
 - **900** [[Current Era]] starts
-- **960** [[Main Campaign]] starts
+- **960** [[Mundi Campaign]] starts

@@ -1,12 +1,15 @@
 ## Notes
-## Story
-### [[Department of Adventuring]]
-[[JetStream Sam]], [[Ondra]], [[Vitek]] and [[Drobek]] start in the waiting room for [[Quoia]]'s [[Department of Adventuring]]. There they introduce eachother to the clerk, [[Hyloch]]. He tells them that [[Diploria Sclera]] and many other beings have been lost and he wants them to look into it. In return theyll get 4 [[Vials of Life]]. 
+### [[Quoia's Department of Adventuring]]
+[[JetStream Sam]], [[Ondra]] s [[Drobek]] a [[Vítek]] společně sedí ve městě [[Quoia]] v [[Quoia's Department of Adventuring]]. Zde se všichni představí úředníkovi [[Hyloch]]ovi. Ten jim poté vysvětlí situaci, že [[Diploria Sclera]] a mnoho dalších osob se ztratilo. Jako odměnu můžou dostat 4× [[Vials of Life]].
+
+- [[Hyloch]]: „Takže vy jste kdo?“ — když přestane pít z kalichu něčeho až moc silného na to, aby to pil takhle brzo.    
+- [[Hyloch]]: „No dobrý. Moc se tímhle nechci zdržovat, takže na rychlovku. Nedaleko města je na kopci obchůdek, kde nějaká Diplora? Diaspora nebo nějak tak prodávala různé magicko-mechanické artefakty, ale už to tam nějakou dobu zeje prázdnotou. Tam bych začal. Ještě co se vám hodí vědět: několik dalších osob se ztratilo jak z města, tak z okolí. Jediné spojení, co jsme zatím našli, bylo, že byli nazýváni jako silní svými příbuznými a přáteli. Ještě nějaké otázky?“    
+- [[Hyloch]]: „Vás dobrodruhy by ještě mohla zajímat odměna, ne?“ — stoupne a pomalu se přivalí k vitríně, kde vytáhne 4 lahvičky. Půlka se zlatým víkem a druhá půlka se stříbrným. Zakašle a vrátí se ke stolu. „Víte, co toto je? Ne? Že se divím. Nevypadáte moc vzdělaně. Je to Ampulka života. Vám se může hodit. Dokáže kohokoliv a cokoliv vrátit zpět k životu, pokud máte jejich tělo, nebo nějak tak... moc nevím. Do kostela nechodím. Budete už jednu chtít?“ 
 ### [[Diploria's Inventions]]
-After knowing what to do they quickly go to [[Diploria Sclera]]'s shop. The door is locked, but the window next to it is already broken. After quick inspection of the incospicuos shop floor they move on to the upper floor.
-On the second floor they find firts iteration of [[Mundi's Core]]. IT sucks the forst person to touch it into [[Mundi's Plane]]. There they have a few words with [[Diploria Sclera]]. Then one lesser [[Salvator Mundi]] 
-## Roleplay
-- [[Hyloch]]: "Takze vy jste kdo?" kdyz prestane pit z kalichu neceho az moc silneho na to aby to pil takhle brzo.
-- [[Diploria's Inventions]]: Dvere jsou zavrene a zamcene, ale vedle je okno, ktere uz je vysklene. Asi byl nekdo rychlejsi nez mi. 
-- [[Diploria's Inventions]]: Vrchni patro je neprehlende plne veci. Papiry a papiry na papirech. Na tabuli je napsano mnoho rovnic a ruznych odkazu k nejakych osobam a kniham. Na stole lezi krasne vyrezana blistiva vec, zdanlive snad i ze zlata. 
-- [[Mundi's Plane]]: 
+Nedaleko města na kopečku je malá dvoupatrová stavba z kamene a dveře. Dveře jsou zavřené a zamčené, ale velké okno vedle dveří je rozbité a zdá se, že už tudy někdo prošel.  
+Spodní patro je skoro prázdné. Je tam jednoduchý obchod s několika magickými artefakty a věcmi. Kasa je rozbitá a všechny zlaťáky už byly vybrány. **DC 15 Perception check**, jestli uvidí, že sklo bylo rozbité zevnitř, a něco kovového leží pod oknem. Je to kousek robota.  
+Schody ještě dobře drží. Druhé patro je vykachličkovaný velký pokoj s hromadou papírů a různých krystalů a železných kousků. Na zdech jsou tabule plné rovnic a různých odkazů k nějakým osobám a knihám. Co vás zaujme nejvíce v celé místnosti, je zlatý orb na stole v centru. Od něj jsou vrhány stíny do celé místnosti.  
+Až se ho někdo dotkne, tak padne na zem a jeho bdění je přesunuto do [[Mundi's Plane]].
+
+- [[Diploria's Inventions]]: Dveře jsou zavřené a zamčené, ale vedle je okno, které už je vyskléné. Asi byl někdo rychlejší než vy.
+### [[Mundi's Plane]] 

@@ -1,7 +1,7 @@
 - #Quest 
-- Place: [[Asturia]], [[Mundi's Plane]], [[Diploria's Inventions]]
+- Place: [[Asturia]], [[Mundi's Plane]], [[Diploriiny Vynálezy]]
 ## Summary
-1. Visit [[Diploria's Inventions]] in [[Asturia]]
+1. Visit [[Diploriiny Vynálezy]] in [[Asturia]]
 2. Get visited by [[Salvator Mundi]]
 3. Have more and more encounters with more version of [[Salvator Mundi]]
 4. Get [[Mundi's Core]]

@@ -7,7 +7,7 @@ Once the jewel of magical warfare, [[Asturia]] was the launch point for [[Pelagi
 - [[Darque]]
 - [[Quoia]]
 ### Small
-- [[Diploria's Inventions]]
+- [[Diploriiny Vynálezy]]
 - [[Tree Catacombs]]
 ## NPCs
 - [[Lutz]]

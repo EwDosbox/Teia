@@ -14,4 +14,7 @@
 - [[JetStream Sam]], [[Tom Cat I.]], [[Drobek]], [[Resial]]
 - Uz dlouho dobu vas 
 ## Co se stalo
-
+V [[Quoia's Department of Adventuring]] se [[Tom Cat I.]] konečně dotkl [[Mundi's Core]]. Jeho vědomí bylo přesunuto do [[Mundi's Plane]], kde mu [[Diploria Sclera]] vysvětlila vše, co věděla. Celý zmatený se [[Tom Cat I.]] snažil vysvětlit [[JetStream Sam]]ovi, co musí udělat.  
+Z [[Hyloch]]a vymlátili 400G na koupele a za splnění questu. Dostali zbytek [[Vials of Life]], nyní už mají 4.  
+Zašli do [[Lázně v Quoii]], kde se opucovali a umyli. Druhý den ráno [[Tom Cat I.]] zaběhl k [[Chester]]ovi do jeho [[Chester's Legal Shop]], aby se podíval po magických itemech. Naběhl na [[Chester]]ův autismus, ale chytil se [[Chester vs Oriundus Quest]]u.  
+Po krátké zastávce před [[Volnic Monastery]], kdy [[Drobek]] hodil [[Muramasa]] po [[Resial]]ovi v ptačí formě, se dostali, kam chtěli. Tam předali [[Mundi's Core]] [[Resial]]ovi, který celou noc zjišťoval, jaké jsou [[Salvator Mundi]]ho zranitelnosti. Po krátkém smlouvání mezi [[Tom Cat I.]] a [[Resial]]em je konečně poslali do [[Mundi's Plane]] společně s [[Zorya Alba]] jako podporou.

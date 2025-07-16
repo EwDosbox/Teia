@@ -1,6 +1,6 @@
 - #NPC 
 - [[NG]]
--  [[Chester's Legal Shop]], [[Oriundus's City]], [[Agarve]]
+-  [[Chester's Legal Shop]], [[Mira]], [[Agarve]]
 - [[Fetchling]]
 ## Description
 A mysterious tall and lanky figure.

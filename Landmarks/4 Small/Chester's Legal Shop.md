@@ -1,4 +1,4 @@
 - #Small 
-- [[Oriundus's City]], [[Agarve]]. [[Chester]]
+- [[Mira]], [[Asturia]]. [[Chester]]
 ## Description
-A small shop in [[Oriundus's City]] that sells and buys magical items and other stuff of value.
+A small shop in [[Mira]] that sells and buys magical items and other stuff of value.

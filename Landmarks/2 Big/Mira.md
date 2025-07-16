@@ -1,11 +1,13 @@
 - #Big
 - [[Agarve]]
+Named after a city in portugal
 
 ## Landmarks
+### Medium
+- [[Agarve Uni]]
 ### Small
-- [[Chester's Legal Shop]]
+- [[Lower Quarter]]
 ## NPCs
 - [[Oriundus]]
-- [[Chester]]
 ## Relations
 - Northern part of the [[Tabernas]]

@@ -1,5 +1,5 @@
 - #Medium
-- [[Oriundus's City]], [[Agarve]]
+- [[Mira]], [[Agarve]]
 ## Description
 One of the only proper universities of [[Teia - Continent]].
 ## Lore

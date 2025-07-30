@@ -5,8 +5,8 @@
 ## Story
 Oriundus studied at the [[Agarve Uni]] in [[Mira]] . After being too lax and anti-establishment he was fired from it.
 After a rough battle with his rival [[Chester]] he had to flee and now lives in the underground.
-He tried to overthrow the "government" of his city with [[Oriundus's Party]]. However after his disciples never returned from a quest to visit [[witch 1]]. This supposed revered but hidden magical user was so powerful she should be able to heal one of them of a deadly magical illness, given by the fearsome [[anti-paladin]] [[Ewan]].
+He tried to overthrow the "government" of his city with [[Oriundus's Campaign]]. However after his disciples never returned from a quest to visit [[Asteria]]. This supposed revered but hidden magical user was so powerful she should be able to heal one of them of a deadly magical illness, given by the fearsome [[anti-paladin]] [[Ewan]].
 ## Relationships
-- [[witch 1]] was big girlfriend in his university times
+- [[Asteria]] was big girlfriend in his university times
 - [[Chester]] has tried to kill him
-- [[Ewan]] had given a deathly illness to [[Oriundus's Party]]
+- [[Ewan]] had given a deathly illness to [[Oriundus's Campaign]]

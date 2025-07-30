@@ -1,0 +1,4 @@
+- #PC Honzi
+- CR: 8
+- [[Tieflieng]]
+- [[Oriundus]], [[Oriundus's Campaign]]

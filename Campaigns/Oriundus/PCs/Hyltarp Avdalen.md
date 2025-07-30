@@ -1,0 +1,10 @@
+- #PC Vitek
+- CR: 2
+- [[NN]], [[Vanara]]
+- [[Oriundus]], [[Oriundus's Campaign]]
+
+## Story od Vitka
+Před ne až tak dlouhou dobou se jednoho dne, v lesnaté výšině narodil do vesničky Vanarů klučík, jmenoval se Hyltarp Avdalen. Ve vesničce si spokojeně žili, a Hyltarp se začal od Starších učit umění Druidů, protože s faunou a flórou si připadal spjat již odjakživa. Po mnoha hodinách tréninku a učení konečně začal pomalu ovládat Druidštinu a umění proměny na zvířata. Jednoho dne, když se celá vesnice sešla k modlitbě pro další posvěcené zítřky, do vesnice vtrhli lidé, a nepřipravení Vanarové neměli šanci, ale i přesto se všichni snažili dělat co mohli.
+Do bojů se zapojil i Hyltarp, ale začínalo být čím dál tím jasnější kdo vyhraje, a tak jeden z nejstarších druidů rychle svolal svoje učně, včetně Hyltarpa a dali se společně se zbytkem Vanarů na útěk. Druidové měli výhodu svojí přeměny, a tak nebyl větší problém utéci, ovšem zbytek Vanarů se jim ztratil z dohledu.
+ Po pár dnech ukrývání je několik lovců vystopovalo, nicméně ne jako Vanary, ale jako zvířata, a tak se strhla bitka. Lovcům se podařilo zavolat posily, a po urputném souboji a úmrtích na obou stranách se Druidi dali opět na útěk, ale tentokrát lovci zasáhli Hyltarpa, který se jako následek svalil ze svahu a i přes četná zranění se mu podařilo dojít hlouběji do lesa v podobě veverky, kde se ale brzy u stromu na následek zranění zhroutil k zemi.
+Štěstím, které si Hyltarp dokázal vyložit pouze jako výsledek jeho modliteb ho pod tímto stromem nalezl klučík a oléčil mu rány, díky čemuž se mu Hyltarp rozhodl důvěřovat. A tak se rozhodl že bude cestovat s ním, i proto že klučík Hyltarpa přijal tak, jak je. Jedné noci, při hluboké konverzaci se Hyltarp rozhodl, že klučíkovi dá jméno. V potůčku si všiml rybičky, a tak se rozhodl že klučíka pojmenuje "Filet".

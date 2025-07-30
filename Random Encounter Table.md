@@ -1,6 +1,6 @@
 | Roll Min | Roll Max | Encounter      |
 | -------- | -------- | -------------- |
-| 1        | 2        | [[witch 1]]    |
+| 1        | 2        | [[Asteria]]    |
 | 3        | 5        | [[Kobold Boy]] |
 ## Regional
 ### Tabernas

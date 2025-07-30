@@ -20,63 +20,35 @@
             }
           },
           {
-            "id": "b5d2e419fe11b1d1",
+            "id": "e3a885a6deb30f56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Mundi Campaign.md",
+                "file": "NPCs/Fetchling/Oriundus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mundi Campaign"
+              "title": "Oriundus"
             }
           },
           {
-            "id": "98eedab1c94915b3",
+            "id": "2bbc3d9d7ab62a7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Mundi/Mundi - 1.md",
+                "file": "NPCs/Changeling/Aglaos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mundi - 1"
-            }
-          },
-          {
-            "id": "15e4f4250cd0abc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Landmarks/3 Medium/Agarve Uni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agarve Uni"
-            }
-          },
-          {
-            "id": "5471b5c913bba0f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Geer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geer"
+              "title": "Aglaos"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 352.5
   },
   "right": {
     "id": "3e3e2d8d7de2b140",
@@ -149,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Geer.md",
+                "file": "NPCs/Changeling/Aglaos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +131,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Geer"
+              "title": "Backlinks for Aglaos"
             }
           },
           {
@@ -222,44 +194,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5471b5c913bba0f7",
+  "active": "2bbc3d9d7ab62a7f",
   "lastOpenFiles": [
-    "Landmarks/1 Major/Tabernas.md",
-    "Landmarks/2 Big/Mira.md",
-    "Landmarks/3 Medium/Agarve Uni.md",
-    "Landmarks/4 Small/Lower Quarter.md",
-    "Random Encounter Table.md",
-    "Campaigns/Mundi/Mundi - 2.md",
-    "Quests/Chester vs Oriundus Quest.md",
-    "Quests/Investigate Hatchet.md",
+    "NPCs/Changeling/Asteria.md",
+    "NPCs/Changeling/Aglaos.md",
     "NPCs/Fetchling/Oriundus.md",
-    "Landmarks/1 Major/Agarve.md",
-    "Landmarks/4 Small/Chester's Legal Shop.md",
-    "Landmarks/Teia - Continent.md",
-    "Landmarks/1 Major/Asturia.md",
-    "Landmarks/1 Major/Kingdom of the Races.md",
-    "Landmarks/3 Medium/Volnic Monastery.md",
-    "Campaigns/Mundi/Mundi - 1.md",
     "Campaigns/Mundi Campaign.md",
-    "NPCs/Construct/Ewan.md",
-    "Magical Items/Agile Rapier.md",
+    "Campaigns/Mundi/PCs/Drobek.md",
+    "Campaigns/Mundi/PCs/Tom Cat I..md",
+    "Campaigns/Mundi/PCs/JetStream Sam.md",
+    "Campaigns/Mundi/Mundi - 2.md",
     "Campaigns/Mundi/Mundi - 0.md",
-    "Landmarks/2 Big/Quoia.md",
-    "Landmarks/4 Small/Diploriiny Vynálezy.md",
-    "NPCs/Kobold/Resial.md",
-    "NPCs/Fetchling/Chester.md",
-    "Timeline.md",
-    "Lore/LoreNPCs/Diploria Sclera.md",
+    "Campaigns/Mundi/Mundi - 1.md",
+    "Campaigns/Oriundus's Campaign.md",
+    "Campaigns/Oriundus/PCs/Hyltarp Avdalen.md",
+    "Campaigns/Oriundus/PCs/Ignius.md",
+    "Campaigns/Oriundus/PCs/Xarrakir.md",
+    "Campaigns/Oriundus/PCs/Norlan.md",
+    "Campaigns/Mundi/PCs/Ignius.md",
+    "Campaigns/Mundi/PCs/Hyltarp Avdalen.md",
+    "Campaigns/Oriundus/PCs/Tom Cat I..md",
+    "Campaigns/Oriundus/PCs/JetStream Sam.md",
+    "Campaigns/Oriundus/PCs/Filet.md",
+    "Campaigns/Oriundus/PCs/Drobek.md",
+    "Campaigns/Oriundus/PCs",
+    "Campaigns/Oriundus",
+    "PCs/Untitled",
+    "Campaigns/Mundi/PCs",
+    "Campaigns/Mundi/PCs/Filet.md",
+    "Campaigns/Mundi/PCs/Norlan.md",
+    "Campaigns/Mundi/PCs/Xarrakir.md",
+    "NPCs/Changeling",
+    "NPCs/Geer.md",
+    "Landmarks/1 Major/Tabernas.md",
     "Campaigns/Mundi",
     "Campaigns",
     "Lore/LoreNPCs",
     "NPCs/Fetchling",
     "NPCs/Kobold",
-    "Quests",
-    "Untitled.canvas",
-    "Landmarks/1 Major",
-    "Landmarks/4 Small",
-    "Landmarks/2 Big",
-    "Landmarks/3 Medium"
+    "Untitled.canvas"
   ]
 }

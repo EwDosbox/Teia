@@ -1,6 +1,6 @@
 ## Sessions
 [[Mundi - 0]], [[Mundi - 1]], [[Mundi - 2]]
-## Players
+## PCs
 [[JetStream Sam]], [[Tom Cat I.]], [[Drobek]]
 ## NPCs
 [[Hyloch]], [[Diploria Sclera]], [[Salvator Mundi]]

@@ -1,7 +1,7 @@
 - #Medium
 - [[Tabernas]]
 ## Lore
-After the [[Royal 1]] came to [[Teia - Continent]], throught the [[Agarve Ocean]] on north, he met with the strongest member of [[Order of the Seal]], [[Besil]]. 
+After the [[Lorenzo I.]] came to [[Teia - Continent]], throught the [[Agarve Ocean]] on north, he met with the strongest member of [[Order of the Seal]], [[Besil]]. 
 Was built as one of the earliest settlements on [[Teia - Continent]]. Served as a sanctuary of worshippers of the [[Old Continent]] [[God]]s 
 It was abandoned in the [[Timeline]] 336
 ## Description

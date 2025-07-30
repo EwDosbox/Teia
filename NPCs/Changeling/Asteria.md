@@ -1,4 +1,5 @@
 - #NPC
+- [[Agarve]], [[Agarve Uni]], [[Asteria's Mansion]]
 ## Description
 ## Relationships
 - Mother of an [[Changeling]] member from [[Oriundus's Campaign]]. [[Norlan]] and her sister [[Aglaos]]

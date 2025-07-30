@@ -20,35 +20,21 @@
             }
           },
           {
-            "id": "e3a885a6deb30f56",
+            "id": "a361528c2aaa7eb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Fetchling/Oriundus.md",
+                "file": "Landmarks/3 Medium/Volnic Monastery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oriundus"
-            }
-          },
-          {
-            "id": "2bbc3d9d7ab62a7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Changeling/Aglaos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aglaos"
+              "title": "Volnic Monastery"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Changeling/Aglaos.md",
+                "file": "Landmarks/3 Medium/Volnic Monastery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aglaos"
+              "title": "Backlinks for Volnic Monastery"
             }
           },
           {
@@ -194,44 +180,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bbc3d9d7ab62a7f",
+  "active": "2f23e835accb0ed0",
   "lastOpenFiles": [
-    "NPCs/Changeling/Asteria.md",
+    "Map/Map.jpg~",
+    "Landmarks/3 Medium/Twin Castles.md",
+    "Landmarks/3 Medium/Volnic Monastery.md",
+    "Landmarks/3 Medium/The World Tree.md",
+    "Landmarks/3 Medium/Silvatessim.md",
+    "Landmarks/2 Big/Fervo.md",
+    "Landmarks/1 Major/Tabernas.md",
+    "Landmarks/2 Big/Canedo.md",
+    "Lore/LoreNPCs/Lorenzo I..md",
+    "Landmarks/1 Major/Lorencia.md",
+    "Landmarks/2 Big/Lorenca.md",
+    "Landmarks/2 Big/Quoia.md",
+    "Landmarks/2 Big/Mira.md",
+    "Landmarks/2 Big/Darque.md",
+    "Landmarks/1 Major/Agarve.md",
+    "Landmarks/Teia - Continent.md",
+    "Landmarks/1 Major/Kingdom of the Races.md",
+    "Map/Map.kra-autosave.kra",
+    "Map/Map.jpg.kra",
+    "Map/Map.jpg",
+    "Map/Map.kra~",
+    "Landmarks/1 Major/Asturia.md",
+    "Map/Map.kra",
     "NPCs/Changeling/Aglaos.md",
+    "Aglaos'es Hut.md",
+    "NPCs/Changeling/Asteria.md",
+    "Landmarks/4 Small/Asteria's Mansion.md",
+    "Campaigns/Oriundus/PCs/Norlan.md",
     "NPCs/Fetchling/Oriundus.md",
     "Campaigns/Mundi Campaign.md",
     "Campaigns/Mundi/PCs/Drobek.md",
-    "Campaigns/Mundi/PCs/Tom Cat I..md",
-    "Campaigns/Mundi/PCs/JetStream Sam.md",
-    "Campaigns/Mundi/Mundi - 2.md",
-    "Campaigns/Mundi/Mundi - 0.md",
-    "Campaigns/Mundi/Mundi - 1.md",
-    "Campaigns/Oriundus's Campaign.md",
-    "Campaigns/Oriundus/PCs/Hyltarp Avdalen.md",
-    "Campaigns/Oriundus/PCs/Ignius.md",
-    "Campaigns/Oriundus/PCs/Xarrakir.md",
-    "Campaigns/Oriundus/PCs/Norlan.md",
-    "Campaigns/Mundi/PCs/Ignius.md",
-    "Campaigns/Mundi/PCs/Hyltarp Avdalen.md",
-    "Campaigns/Oriundus/PCs/Tom Cat I..md",
-    "Campaigns/Oriundus/PCs/JetStream Sam.md",
-    "Campaigns/Oriundus/PCs/Filet.md",
-    "Campaigns/Oriundus/PCs/Drobek.md",
     "Campaigns/Oriundus/PCs",
     "Campaigns/Oriundus",
     "PCs/Untitled",
     "Campaigns/Mundi/PCs",
-    "Campaigns/Mundi/PCs/Filet.md",
-    "Campaigns/Mundi/PCs/Norlan.md",
-    "Campaigns/Mundi/PCs/Xarrakir.md",
     "NPCs/Changeling",
-    "NPCs/Geer.md",
-    "Landmarks/1 Major/Tabernas.md",
     "Campaigns/Mundi",
-    "Campaigns",
-    "Lore/LoreNPCs",
-    "NPCs/Fetchling",
-    "NPCs/Kobold",
     "Untitled.canvas"
   ]
 }

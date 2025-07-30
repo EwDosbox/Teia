@@ -1,5 +1,5 @@
 - #Quest 
-- Place: [[Hatchet's Hideout]], [[Royal Region]]
+- Place: [[Hatchet's Hideout]], [[Lorencia]]
 ## Summary
 1. From local villagers get info about loot in the nearby cave
 2. Find a preserved horse carcass of [[Dead King]]

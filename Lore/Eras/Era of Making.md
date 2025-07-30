@@ -11,16 +11,16 @@ aliases:
 - **Duration:** 11 years
 
 ## 🌍 General Overview
-- **Defining Characteristics:** War against [[Teia - Character]] waged by [[Royal 1]]
+- **Defining Characteristics:** War against [[Teia - Character]] waged by [[Lorenzo I.]]
 - **Major Themes:** War, Powerful Magic
 
 ## 🏛️ Key Events
-- **How It Started:** [[Royal 1]] was sick of the [[Old Continent]] and wanted a new place
+- **How It Started:** [[Lorenzo I.]] was sick of the [[Old Continent]] and wanted a new place
 - **Significant Historical Moments:** [[Death of Teia]]
 - **Major Wars, Catastrophes, or Discoveries:** 
 
 ## 👑 Important Figures & Factions
-- **Rulers & Leaders:** [[Royal 1]]
+- **Rulers & Leaders:** [[Lorenzo I.]]
 - **Powerful Organizations:** [[Order of the Seal]]
 
 ## ⚔️ Conflicts & Alliances
@@ -28,7 +28,7 @@ aliases:
 - **Major Political Shifts:** 
 
 ## 📜 Legacy & Impact
-- **How It Ended:** it ended when [[Royal 1]] killed [[Teia - Character]]
+- **How It Ended:** it ended when [[Lorenzo I.]] killed [[Teia - Character]]
 - **Effects on Later Eras:** 
 
 ## 📖 Related Eras
@@ -36,4 +36,4 @@ aliases:
 - **Following Era:** [[Era 02]]
 
 ## 📜 Notes
-- [[Royal City]] was founded in this era
+- [[Lorenca]] was founded in this era

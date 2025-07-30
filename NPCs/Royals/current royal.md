@@ -1,2 +1,2 @@
-[[2. Dynasty]], [[Royal City]], [[Royal]], #NPC
+[[2. Dynasty]], [[Lorenca]], [[Royal]], #NPC
 - CR: 18

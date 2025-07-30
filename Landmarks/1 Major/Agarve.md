@@ -4,18 +4,19 @@ The Northernmost place of [[Teia - Continent]]. The waters of [[Agarve Ocean]] w
 ## Locations
 ### Big
 - [[Mira]]
-- [[Agarve City 2]]
+- [[Canedo]]
 ### Medium
 - [[Twin Castles]]
 - [[Agarve Uni]]
 ### Small
 - [[Prophecy Rock]]
-- [[Castle 1]], [[Castle 2]]
+- [[Castle 1]], [[Castle 2]],
+- [[Asteria's Mansion]]
 ## NPCs
 - [[Chester]]
 - [[Oriundus]]
 ## Relationships
 - [[Great Mountains]] on the west
 - [[Asturia]] on the south and south-west
-- [[Royal Region]] on the east
+- [[Lorencia]] on the east
 - [[Agarve Ocean]] to the north

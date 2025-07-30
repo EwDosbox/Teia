@@ -1,5 +1,5 @@
 ## [[First Dynasty]]
-- 0 - -11 [[Royal 1]]
+- 0 - -11 [[Lorenzo I.]]
 ## [[2. Dynasty]]
 - somewhere in **500s** royal line changed to a different [[2. Dynasty]]
 - [[current royal]]

@@ -1,5 +1,5 @@
 - #Medium
-- [[Asturia]]
+- [[Great Mountains]] very near [[Asturia]] and [[Quoia]]
 ## Description
 An old stone complex of small and rather unkept buildings.
 ## Relations

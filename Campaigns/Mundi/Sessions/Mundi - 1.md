@@ -13,6 +13,6 @@ Až se ho někdo dotkne, tak padne na zem a jeho bdění je přesunuto do [[Mund
 - [[Diploriiny Vynálezy]]: Dveře jsou zavřené a zamčené, ale vedle je okno, které už je vyskléné. Asi byl někdo rychlejší než vy.
 ## Co se stalo
 V [[Quoia's Department of Adventuring]] [[JetStream Sam]] a [[Tom Cat I.]] s [[Drobek]] získali všechny potřebné informace od [[Hyloch]]a. Poté si udělali krátkou odbočku do [[Královské Hambáče]], kde ztraumatizovali 15letou holku a trochu se najedli.  
-Při cestě z [[Quoia]] do [[Diploria's Inventions]] zjistili, že můžou jet na [[Drobek]]. U paní [[Diploria Sclera]] doma nic pořádného nenašli, jen několik knih od [[Resial]]a a [[Mundi's Core]], o kterém ještě nevěděli.  
+Při cestě z [[Quoia]] do [[Diploriiny Vynálezy]] zjistili, že můžou jet na [[Drobek]]. U paní [[Diploria Sclera]] doma nic pořádného nenašli, jen několik knih od [[Resial]]a a [[Mundi's Core]], o kterém ještě nevěděli.  
 Když vyšli ven, tak na ně venku čekala 5. iterace [[Salvator Mundi]]ho. Zjistili, že být náhodní ho zmate, a tím vyhráli.  
 Zpátky ve městě v [[Královské Hambáče]] [[JetStream Sam]] zničil tácek před obsluhou a dožadoval se slevy. Když se to nepovedlo, tak v [[Quoia's Department of Adventuring]] vysvětlili [[Hyloch]]ovi, co všechno se stalo.

@@ -1,5 +1,5 @@
 - #Medium
-- [[Great Mountains]] very near [[Asturia]] and [[Quoia]]
+- [[Imeri]] very near [[Asturia]] and [[Quoia]]
 ## Description
 An old stone complex of small and rather unkept buildings.
 ## Relations

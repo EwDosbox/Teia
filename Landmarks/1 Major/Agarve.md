@@ -1,6 +1,6 @@
 - #Major
 ## Description
-The Northernmost place of [[Teia - Continent]]. The waters of [[Agarve Ocean]] wash on its shores. With [[Imeri]] on the west they are an amazing and lush place for life. Climate is mild similar to that of Hungary or Moravia.
+The Northernmost place of [[Teia - Continent]]. The waters of [[Ocean]] wash on its shores. With [[Imeri]] on the west they are an amazing and lush place for life. Climate is mild similar to that of Hungary or Moravia.
 ## Locations
 ### Big
 - [[Mira]]
@@ -19,4 +19,4 @@ The Northernmost place of [[Teia - Continent]]. The waters of [[Agarve Ocean]] w
 - [[Imeri]] on the west
 - [[Asturia]] on the south and south-west
 - [[Lorencia]] on the east
-- [[Agarve Ocean]] to the north
+- [[Ocean]] to the north

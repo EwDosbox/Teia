@@ -8,12 +8,15 @@ with the most notable one being [[Tahal]], which was abandoned.
 - [[Fervo]]
 ### Medium
 - [[Tahal]]
+- [[Isthmus of Medana]]
 ### Small
 - [[Sanctuary of Tahal]]
 ## NPCs
 - [[Calar Alto]]
 - [[Geer]]
 ## Relations
-### Land
-- [[Lorencia]] to north-west
-- [[Asturia]] to north and north-east
+- [[Lorencia]] to north-east
+- [[Agarve]] to north
+- [[Asturia]] to north-west
+- [[Imeri]] and [[Cisplatina]] \ [[Cabralia]] to west
+- [[Ocean]] on south

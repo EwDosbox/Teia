@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "tag:#Max ",
+      "query": "tag:#Class  ",
       "color": {
         "a": 1,
-        "rgb": 65450
+        "rgb": 255
+      }
+    },
+    {
+      "query": "tag:#Race  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
       }
     },
     {
@@ -67,21 +74,7 @@
       "query": "tag:#PC  ",
       "color": {
         "a": 1,
-        "rgb": 14199758
-      }
-    },
-    {
-      "query": "tag:#Class  ",
-      "color": {
-        "a": 1,
-        "rgb": 6443744
-      }
-    },
-    {
-      "query": "tag:#Race  ",
-      "color": {
-        "a": 1,
-        "rgb": 5984992
+        "rgb": 10092512
       }
     }
   ],
@@ -95,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5438603578509116,
+  "scale": 0.5410449254335747,
   "close": true
 }
